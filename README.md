@@ -73,7 +73,8 @@ http://localhost:8501
 
 
 
-![image alt](https://github.com/Hpunera09/hybrid-nl-search-postgres/blob/main/assets/g.png)
+![Project Screenshot](https://raw.githubusercontent.com/Hpunera09/hybrid-nl-search-postgres/main/assets/g.png)
+
 
 
 
