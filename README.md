@@ -71,6 +71,9 @@ streamlit run app.py
 Open your browser and navigate to:
 http://localhost:8501
 
+```bash
+
+
 ## Streamlit Interface(sql search)
 ![Streamlit UI](assets/p.png)
 
