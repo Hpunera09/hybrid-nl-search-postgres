@@ -72,10 +72,10 @@ Open your browser and navigate to:
 http://localhost:8501
 
 ## Streamlit Interface(sql search)
-![Streamlit UI](https://github.com/Hpunera09/hybrid-nl-search-postgres/blob/main/Output%20images/Screenshot%202026-01-04%20191537.png)
+![Streamlit UI](assets/Screenshot 2026-01-04 191537.png)
 
 ## semantic vector search
-![Streamlit UI](Output images/Screenshot 2026-01-04 192730.png)
+![Streamlit UI](assets/Screenshot 2026-01-04 192730.png)
 
 
 
