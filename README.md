@@ -1,5 +1,3 @@
-<img width="1839" height="821" alt="Image" src="https://github.com/user-attachments/assets/5f6df9af-16fd-4b42-a3a7-b1873a757782" />
-
 # Natural Language Search Interface using PostgreSQL & Vector Embeddings
 
 ## 📌 Project Overview
@@ -75,11 +73,12 @@ http://localhost:8501
 
 
 ```
-
+# project results(sql and semantic search)
 <img width="1839" height="821" alt="Image" src="https://github.com/user-attachments/assets/5f6df9af-16fd-4b42-a3a7-b1873a757782" />
 
 
 
+<img width="1753" height="650" alt="g" src="https://github.com/user-attachments/assets/54b137bf-1e12-47d0-8516-fa66aaacf350" />
 
 
 
