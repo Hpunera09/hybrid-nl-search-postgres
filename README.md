@@ -73,8 +73,8 @@ http://localhost:8501
 '''bash
 
 
-##  Streamlit Interface(sql search)
-![image alt](https://github.com/Hpunera09/hybrid-nl-search-postgres/blob/main/Output%20images/Screenshot%202026-01-04%20191537.png?raw=true)
+##  Streamlit Interface
+![image alt](https://github.com/Hpunera09/hybrid-nl-search-postgres/blob/main/assets/g.png?raw=true)
 
 ## semantic vector search
 ![Streamlit UI](assets/g.png)
