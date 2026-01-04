@@ -74,11 +74,11 @@ http://localhost:8501
 
 ## project results
 
-<img width="1839" height="821" alt="p" src="https://github.com/user-attachments/assets/65cc34d3-c48f-40db-945e-4ae7c3c8fd03" />
+<img width="1839" height="821" alt="Image" src="https://github.com/user-attachments/assets/d90f1f02-0fbb-4aba-a86b-cb12764b8be3" />
 
 
 
-<img width="1753" height="650" alt="g" src="https://github.com/user-attachments/assets/5c65b12b-7ea1-4816-a887-92551751c921" />
+
 
 
 
