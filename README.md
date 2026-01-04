@@ -70,7 +70,6 @@ psql -U postgres -d nl_search -f seed.sql
 streamlit run app.py
 Open your browser and navigate to:
 http://localhost:8501
-'''bash
 
 
 ##  Streamlit Interface
