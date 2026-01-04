@@ -72,14 +72,13 @@ Open your browser and navigate to:
 http://localhost:8501
 
 
+## project results
 
-![Project Screenshot](https://raw.githubusercontent.com/Hpunera09/hybrid-nl-search-postgres/main/assets/g.png)
-
-
-
+<img width="1839" height="821" alt="p" src="https://github.com/user-attachments/assets/65cc34d3-c48f-40db-945e-4ae7c3c8fd03" />
 
 
 
+<img width="1753" height="650" alt="g" src="https://github.com/user-attachments/assets/5c65b12b-7ea1-4816-a887-92551751c921" />
 
 
 
