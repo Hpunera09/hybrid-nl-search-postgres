@@ -74,9 +74,9 @@ Open your browser and navigate to:
 http://localhost:8501
 
 
-## project results
 
-<img width="1839" height="821" alt="Image" src="https://github.com/user-attachments/assets/d90f1f02-0fbb-4aba-a86b-cb12764b8be3" />
+
+<img width="1839" height="821" alt="Image" src="https://github.com/user-attachments/assets/5f6df9af-16fd-4b42-a3a7-b1873a757782" />
 
 
 
