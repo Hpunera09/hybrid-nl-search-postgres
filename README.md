@@ -72,10 +72,10 @@ Open your browser and navigate to:
 http://localhost:8501
 
 ## Streamlit Interface(sql search)
-![Streamlit UI](assets/Screenshot 2026-01-04 191537.png)
+![Streamlit UI](assets/p.png)
 
 ## semantic vector search
-![Streamlit UI](assets/Screenshot 2026-01-04 192730.png)
+![Streamlit UI](assets/g.png)
 
 
 
